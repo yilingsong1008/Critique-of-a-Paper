@@ -1,5 +1,6 @@
 ---
-title: "Criticism of the Paper:‘The association between early career informal mentorship in academic collaborations and junior author performance’"
+title: Criticism of the Paper:‘The association between early career informal mentorship
+  in academic collaborations and junior author performance’
 author: "Yiling Song"
 date: "December 22, 2020"
 output:
@@ -7,6 +8,10 @@ output:
   html_document:
     df_print: paged
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dev = 'png') 
+```
 
 # Criticism of the Paper:‘The association between early career informal mentorship in academic collaborations and junior author performance’
 
