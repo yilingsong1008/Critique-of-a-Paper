@@ -13,6 +13,7 @@ output:
 ## Yiling Song 
 ## December 22, 2020
 ## Link to Github: https://github.com/yilingsong1008/Critique-of-a-Paper
+## Data supporting this dataset available at: https://github.com/bedoor/Mentorship (Mentorship/Repository_Data/Data_7yearcutoff.csv)
 
 # Abstract
 
