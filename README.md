@@ -182,6 +182,6 @@ summary(mylogit)
 [13]. Rossi, L., Freire, I. L. & Mena-Chalco, J. P. Genealogical index: a metric to analyze advisor-advisee relationships. J. Inform. 11, 564–582 (2017). \
 [14]. Linèard, J. F., Achakulvisut, T., Acuna, D. E. & David, S. V. Intellectual synthesis in mentorship determines success in academic careers. Nat. Commun. 9, 1733–1749 (2018). \
 [15]. Liu, J. et al. Understanding the advisor-advisee relationship via scholarly data analysis. Scientometrics 116, 161–180 (2018). \
-[16]. Daniel E. Weeks November 21, 2020, 14:11. Mentorship. https://danieleweeks.github.io/Mentorship/#summary\
+[16]. Daniel E. Weeks November 21, 2020, 14:11. Mentorship. https://danieleweeks.github.io/Mentorship/#summary \
 [17]. Sinha, A. et al. An overview of microsoft academic service (mas) and applications. In Proceedings of the 24th International Conference on World Wide Web, 243–246 (ACM, New York, 2015). \
 [18]. Wang, K. et al. A review of microsoft academic services for science of science studies. Front. Big Data 2, 45 (2019).
