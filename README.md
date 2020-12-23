@@ -12,7 +12,7 @@ output:
 
 ## Yiling Song 
 ## December 22, 2020
-## Link to Github: 
+## Link to Github: https://github.com/yilingsong1008/Critique-of-a-Paper
 
 # Abstract
 
